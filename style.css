@@ -1,0 +1,19 @@
+details a{
+display: inline-block;
+margin-right: 3rem;
+   width: 8rem;
+   line-height: 2rem;
+   border:2px solid #E95420 !important;
+   border-radius: .5rem;
+   text-align: center;
+   background: #FDEEE9;
+}
+details a:hover{
+    color: #FDEEE9;
+    background: #E95420;
+}
+summary{
+    text-indent: 1rem;
+    line-height: 3rem;
+    background: #F6F6F5;
+}
