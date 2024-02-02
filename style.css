@@ -19,12 +19,13 @@ summary{
 }
 .markdown-section div p{
     display: flex;
+    justify-content: center;
+    align-content: center;
 a{flex: 1;
-    margin-right: 3rem;
-    width: 9rem;
-    line-height: 4rem;
+    margin-right: 3.5rem;
+    line-height:7rem;
     border:2px solid #E95420 !important;
-    border-radius: 1.5rem;
+    border-radius: 50%;
     text-align: center;
     background: #FDEEE9;
 }
