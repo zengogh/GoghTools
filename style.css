@@ -17,3 +17,24 @@ summary{
     line-height: 3rem;
     background: #F6F6F5;
 }
+.markdown-section div p{
+    display: flex;
+a{flex: 1;
+    margin-right: 3rem;
+    width: 9rem;
+    line-height: 4rem;
+    border:2px solid #E95420 !important;
+    border-radius: 1.5rem;
+    text-align: center;
+    background: #FDEEE9;
+}
+a:hover{
+    color: #FDEEE9;
+    background: #E95420;
+}
+}
+.photo{
+    height:10rem;
+    border-radius: 50%;
+    border:.25rem solid #E95420 !important;
+}
