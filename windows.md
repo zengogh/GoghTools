@@ -1,4 +1,4 @@
-# <i class="bi bi-microsoft" style='color: #E95420'></i> Windows系统下载
+# <i class="bi bi-microsoft"></i> Windows系统下载
 
 > ### Windows Server :id=server
 

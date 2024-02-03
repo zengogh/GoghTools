@@ -1,3 +1,17 @@
+
+nav{
+    width:calc(100% - 330px) ;
+    border-bottom: 1px solid #eee;
+}
+@media screen and (max-width:768px) {
+    nav{
+        width:100% ;
+        
+    }
+}
+h1{
+    i{color: #E95420;}
+}
 details a{
 display: inline-block;
 margin-right: 3rem;
@@ -23,10 +37,11 @@ summary{
     display: flex;
     justify-content: center;
     align-content: center;
+
 a{flex: 1;
     margin-right: 0.5rem;
     line-height:3.5rem;
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     text-align: center;
     border:2px solid #E95420 !important;
     
@@ -38,6 +53,11 @@ a:hover{
     color: #fff;
     background: #E95420;
 }
+}
+table {
+    img{
+    height:4rem;}
+    a{text-decoration: none;color: #333 !important;}
 }
 .photo{
     height:10rem;
