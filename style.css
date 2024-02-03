@@ -17,6 +17,7 @@ summary{
     text-indent: 1rem;
     line-height: 3rem;
     background: #F6F6F5;
+    cursor: pointer;
 }
 .markdown-section div p{
     display: flex;
@@ -27,14 +28,15 @@ a{flex: 1;
     line-height:3.5rem;
     border-radius: 0.5rem;
     text-align: center;
-    background: #E95420;
+    border:2px solid #E95420 !important;
+    
     text-decoration: none;
-    font-size: 1.5rem;
-    color: #FDEEE9;
+    font-size: 1.2rem;
+    color: #E95420;
 }
 a:hover{
     color: #fff;
-    background: #c24416;
+    background: #E95420;
 }
 }
 .photo{

@@ -7,5 +7,6 @@
   - [压缩工具](zip.md)
   - [办公PDF](officePDF.md)
   - [硬盘分区](disk.md)
+  - [网络工具](net.md)
 
 - [关于](about.md)  
