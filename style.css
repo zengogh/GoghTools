@@ -64,3 +64,20 @@ table {
     border-radius: 50%;
     border:.25rem solid lightgrey !important;
 }
+article{
+    ul{
+        list-style: none;
+        display: flex;
+        gap: 1rem;
+     li{
+display: flex;
+flex-direction: column;
+a{border: 1px solid #ddd;padding:0 .5rem;text-align: center;width: 11rem;color: #333 !important;text-decoration: none;}
+a:first-child{border-bottom: none;}
+a:last-child{border-top: none;}
+     img{
+    height:10rem;   
+     }    
+    }
+}  
+}
